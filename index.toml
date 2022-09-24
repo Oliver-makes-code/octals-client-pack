@@ -1,0 +1,150 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "4de24ddd51cba8dfddd2e66fa2c659013596289839f888a0c8f6222669e75637"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "7250c341106f7097064eaf65f72cb3d7668f0c3a28a67278442f42441020d465"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "ce2b27de57c7ea0b68a0b88472285a2e82e8cf08c57c4c8c2a321579f90ca047"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "b78af3bf0642db40d9295d6228eaa65065414de18995f84970b6e1698e93aced"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "1946f660ed8f0b6b4fa1680fbc14f30a0db503b09fac5ffd0635ecd9cfecf6d1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
+metafile = true
+
+[[files]]
+file = "mods/no-unused-chunks.pw.toml"
+hash = "2c296414ee384c7e4fa022ccd41055b2529051ec8b7be15137ba873f6aa5a17d"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "8f94d7a661f7d097b9d58636e5b61306fa8209b62128d7c225f765b0fafd0026"
+metafile = true
+
+[[files]]
+file = "mods/picturesign.pw.toml"
+hash = "de98473ec784d53d4dc03aeb17dbc562658d02da5ff9222b43b9b87c20b51dd9"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "60c62df22bf4df4cbe6445405c92617fdeab7060499caade5eea7cfb36679fe8"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "2e814a41e25a222c3d0363931887da7b8c63522281a7044a21dda255f8318b5e"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "0d2580694a5821cd27dfe03940ade7d0ff556ba6c55d8e08321ab48a7e9ac26b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "5290122207493b6350080792571bceb0038941ffe3a73779e4a78a60f5b9c113"
+metafile = true
