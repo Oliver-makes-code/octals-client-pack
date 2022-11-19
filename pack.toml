@@ -1,13 +1,13 @@
 name = "Octal's Client Pack"
 author = "Octal"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "78bdfa98b2248a5cd3a9ae2e93d2e5da94374a32e16655177afe98826a2f5a43"
+hash = "43cb42279bb1f0ab960f8ca2f2368cb251b7fa7b0a76a8fd95a943c5e152fce6"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.17.5-beta.2"
+quilt = "0.18.1-beta.15"

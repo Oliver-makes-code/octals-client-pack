@@ -1,0 +1,15 @@
+{
+  "scale": 1.0,
+  "anchor": "TOP_LEFT",
+  "posX": 0,
+  "posY": 0,
+  "drawCover": true,
+  "volumeStep": 10,
+  "titleColor": "#ffffff",
+  "artistColor": "#ffffff",
+  "timeColor": "#ffffff",
+  "barColor": "#ffffff",
+  "backgroundColor": "#000000",
+  "backgroundTransparency": 100,
+  "inGameMusicVolume": 1.0
+}
